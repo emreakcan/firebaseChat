@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cdf259216321a35497cc0110320c5ffdbdd46f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_1292ece660f778a73ef64096b975d2071d3331aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_969386fe6a2b86e4d62417fa67febf6887fbdb10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_b1fa8dd467eabe76dc9b3a66da1f0ec0b2e3b8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_14fc6a471bf704a085fbbcca77265d98ea955d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.8.0_1145938f5ae0945c29b8e2d38f00a8b423b1e40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_5eeedec34d20870830cc5a6f638d29d59a9bd835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_f50b3aa515b6895f3f57532c3f6663e83731d697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_dcbd5156fa02d4040f037e840394297e37ae824e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_28d256a2886f8ebfb440ec701abd62b7c9d5e8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_8d7d298c1df2de166081958cf7422708f97d65d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_4075713defc7ce2654145d0886ef6d5ba93f9e51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_41ef8157351b66da53f501472b68ad2a8bbf5414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a7ed8401b7b9f9efd2d3d6e5df028d5269a1e7f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_9f3e692cdbcb62c3a8c4cb3574afb4a203ad3b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_a7eb75a3dfb84d4c7f19224bf927acc1e7577f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f8894b83148a5934495753596015c585cfb76aab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_7982feb19bcdb3fce48247e657141dedbcba36d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.8.0_f699359839c51cb4e46e30993d5a320d1c846f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_cc0efc83fee00bdfa428263ee8c5dc9802a3b625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d7901285da12416a21e496b5689af9ab014ae6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_2f0f7cb0b3f2611f60ab88c1a0de57273220f206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_3431ea839398fd95f50b40925242ecbce3a554df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_6a2e085283aee8956337ff5cd6cb9956b86362e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_257974b3a436d00edb2398447b647b0bdcdd6e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.8.0_f2498536d3fa78d061265f4b8d20117b6c99e377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_224896307e9119b5c309f3feff8277247a6f6b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_2fbc1f5da111100c10c95697883d14e1da59b0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_444210e4d20fca8c8cd1a076f12523dd315a0f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_74de799d9220b4725cb5ab60ce2c9988abc58c4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ea6ec90539d1e717cc9da7ee1ae63aea00356840.jar" />
+    </item>
+
+</items>

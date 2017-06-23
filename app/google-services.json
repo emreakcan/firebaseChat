@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "915869929969",
+    "firebase_url": "https://aiu-lose.firebaseio.com",
+    "project_id": "aiu-lose",
+    "storage_bucket": "aiu-lose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915869929969:android:8506987afae67249",
+        "android_client_info": {
+          "package_name": "com.aiusocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915869929969-v4kimp8qiv7vaj03r5gdk76c0fggivk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHH_gLavQzLSkWPifdzkyjR5Pl3ZftvgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

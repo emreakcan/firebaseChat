@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/D:\\12.1\\AIU Social\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/D:\\12.1\\AIU Social\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AIU Social/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/emre/Documents/myAndroid/SOSYALL/AIU Social/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/C:\\Users\\emre\\Desktop\\AIU Social\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/C:\\Users\\emre\\Desktop\\AIU Social\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/C:\\Users\\emre\\Desktop\\AIU Social\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/C:\\Users\\emre\\Desktop\\AIU Social\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/SOSYALL/AIU Social/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/emre/Documents/myAndroid/SOSYALL/AIU Social/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/D:\\12.1\\AIU Social\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/D:\\12.1\\AIU Social\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/emre/Documents/myAndroid/AIU Social/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
